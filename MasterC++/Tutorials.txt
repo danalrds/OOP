@@ -1,0 +1,6 @@
+Single Responsibility Principle,Kudvenkat,14:50,777,https://www.youtube.com/watch?v=5t-_wI7nFdU
+C++ another one,Jimmy,77:33,880,https://www.youtube.com/watch?v=Rub-JsjMhWY
+C++ - lambda expressions,Bradley Needham,14:50,602,https://www.youtube.com/watch?v=5t-_wI7nFdU
+C++,Bradley Jimmy,50:40,1002,https://www.youtube.com/watch?v=5t-_wI7nFdU
+C++,Bradley Jimmy,50:40,1002,https://www.youtube.com/watch?v=5t-_wI7nFdU
+C++,Jimmy,70:32,380,https://www.youtube.com/watch?v=Rub-JsjMhWY

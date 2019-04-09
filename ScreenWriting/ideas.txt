@@ -1,0 +1,5 @@
+idea;accepted;Schopenhauer;2
+kill Hitler;accepted;Nietzche;1
+plot twist;proposed;Kafka;3
+another idea;proposed;Shakespeare;2
+idkwhat idea;proposed;Schopenhauer;1

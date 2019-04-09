@@ -1,0 +1,7 @@
+act1
+kill Hitler[Nietzche]
+act2
+Dana[Kowalski]
+idea[Schopenhauer]
+act3
+plot twist[Kafka]

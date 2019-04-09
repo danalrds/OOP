@@ -1,0 +1,4 @@
+1,question1,correctanswer,9
+2,question2,correctcorrect,9
+3,question3,yass,10
+4,question4,okkkk,7
